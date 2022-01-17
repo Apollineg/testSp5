@@ -57,7 +57,10 @@
     border-bottom:0.5em solid #fff;
   }
 
-
+div {
+    display:inline-block;
+    text-align: center;
+}
   #demotext {
     color: #FFFFFF;
     background: transparent;
