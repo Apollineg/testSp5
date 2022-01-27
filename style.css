@@ -1,6 +1,8 @@
 /*ma feuille de style*/
 
-
+.ribbon {
+  align-content: center;
+}
 .ribbon:after, .ribbon:before {
     margin-top:0.5em;
     content: "";
