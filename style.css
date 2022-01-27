@@ -1,5 +1,8 @@
 /*ma feuille de style*/
 
+div { 
+  text-align: center;
+
 .ribbon:after, .ribbon:before {
     margin-top:0.5em;
     content: "";
@@ -57,8 +60,6 @@
     border-bottom:0.5em solid #fff;
   }
 
-  div { 
-    text-align: center;
   }
 
   img{
