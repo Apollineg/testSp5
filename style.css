@@ -57,6 +57,9 @@
     border-bottom:0.5em solid #fff;
   }
 
+  image{
+    display: block;
+  }
   #demotext {
     color: #FFFFFF;
     background: transparent;
