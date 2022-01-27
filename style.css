@@ -2,6 +2,7 @@
 
 div { 
   text-align: center;
+}
 
 .ribbon:after, .ribbon:before {
     margin-top:0.5em;
@@ -60,7 +61,6 @@ div {
     border-bottom:0.5em solid #fff;
   }
 
-  }
 
   img{
     display: block; margin-left: auto; margin-right: auto;
